@@ -1,12 +1,12 @@
 # Telegram Bot
-TOKEN = '7041724365:AAEv7UptU-hgaIk4mV34A_Du-76wj-XzusM'
+TOKEN = ""
 
 # Payment Provider
-STRIPE_API_KEY = "sk_test_51P3MGeCQMC6txkpgzLRk7zUo1VkHdleD0F8M9LXbWISuOH1GqZ4OvomlQJXPV8ggL4TSB94SKLaCQIDrMa47TOYc00dbvKxUDM"  # Replace with your Stripe secret key
+STRIPE_API_KEY = "" # Replace with your Stripe secret key
 
 # URLs
-SUCCESS_URL = 'https://yourdomain.com/success'
-CANCEL_URL = 'https://yourdomain.com/cancel'
+SUCCESS_URL = ""
+CANCEL_URL = ""
 
 # App Config
 LOG_FILE = 'logs/app.log'
